@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050b6e9f25383c148ae8cd099f578db5, type: 3}
+  m_Name: TomamtoCrop
+  m_EditorClassIdentifier: 
+  description: 
+  thumbnail: {fileID: 0}
+  gameModel: {fileID: 4819934528260166898, guid: 869dc368317d7a34cb486f097bf881a8, type: 3}
+  regrowable: 0
+  daysToRegrow: 0

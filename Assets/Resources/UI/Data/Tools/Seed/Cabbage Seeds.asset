@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a332f207550fc3b44be042099e1a4920, type: 3}
+  m_Name: Cabbage Seeds
+  m_EditorClassIdentifier: 
+  description: cabbage
+  thumbnail: {fileID: 1568746741, guid: 25d2614654ddb734cbd1e6175030a762, type: 3}
+  gameModel: {fileID: 3829741337066533875, guid: 54b63645104363f44bc36630ac6e3b02, type: 3}
+  cost: 30
+  hoursToGrow: 8
+  cropToYield: {fileID: 11400000, guid: f579b19c875417244ac4c19b603d1451, type: 2}
+  seedling: {fileID: 8028609030894877065, guid: 79edb1f196deec147afd076795efeb67, type: 3}

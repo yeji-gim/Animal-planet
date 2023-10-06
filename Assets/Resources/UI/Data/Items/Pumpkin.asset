@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050b6e9f25383c148ae8cd099f578db5, type: 3}
+  m_Name: Pumpkin
+  m_EditorClassIdentifier: 
+  description: Pumpkin
+  thumbnail: {fileID: -2083525517, guid: 193a14d46292bd74a8bc8a301908dc14, type: 3}
+  gameModel: {fileID: 5886682686344633781, guid: 0a89f732e8ecc6e4491749f72ccbbd2f, type: 3}
+  cost: 500
